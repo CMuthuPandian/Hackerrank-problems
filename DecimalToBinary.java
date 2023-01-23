@@ -1,3 +1,5 @@
+//Convert the given decimal number into equivalent binary number
+
 import java.util.*;
 public class DecimalToBinary {
     public static void main(String[] args){
