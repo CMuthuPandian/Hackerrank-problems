@@ -13,3 +13,12 @@ public class StartAndEndCaseConversion {
         }
     }
 }
+
+/*
+
+Output:
+
+>hi how are you is everything fine
+HI HoW ArE YoU IS EverythinG FinE
+
+ */
