@@ -1,3 +1,5 @@
+//Convert the first and last letter to Uppercase in all words in a given string
+
 import java.util.Scanner;
 public class StartAndEndCaseConversion {
     public static void main(String[] args) {
