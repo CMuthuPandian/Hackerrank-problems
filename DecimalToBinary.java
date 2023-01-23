@@ -15,3 +15,16 @@ public class DecimalToBinary {
         }
     }
 }
+
+
+/*
+
+Output:
+
+>1
+1
+
+>8
+1000
+
+ */
