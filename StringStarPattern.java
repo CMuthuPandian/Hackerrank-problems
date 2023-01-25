@@ -19,3 +19,18 @@ public class StringStarPattern {
         }
     }
 }
+
+/*
+
+Output:
+
+Enter a string: PROGRAM
+P     M
+ R   A 
+  O R  
+   G   
+  O R  
+ R   A 
+P     M
+
+ */
