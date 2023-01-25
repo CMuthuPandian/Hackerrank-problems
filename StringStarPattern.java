@@ -4,7 +4,6 @@ public class StringStarPattern {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter a string: ");
         String s = sc.nextLine();
-
         for (int i = 0; i < s.length(); i++) {
             for (int j = 0; j < s.length(); j++) {
                 if (i == j && i + j != s.length() - 1) {
