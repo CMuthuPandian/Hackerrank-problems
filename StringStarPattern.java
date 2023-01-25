@@ -11,7 +11,8 @@ public class StringStarPattern {
                 } 
                 else if (i + j == s.length() - 1) {
                     System.out.print(s.charAt(j));
-                } else {
+                } 
+                else {
                     System.out.print(" ");
                 }
             }
