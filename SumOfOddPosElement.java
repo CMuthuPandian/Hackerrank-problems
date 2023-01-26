@@ -1,7 +1,6 @@
-import java.util.Scanner;
-
 //Add the odd positioned elements in an array and print the resultant. start the index position from 0 .
 
+import java.util.Scanner;
 public class SumOfOddPosElement {
     public static void main(String[] args) {
         Scanner s  = new Scanner(System.in);
