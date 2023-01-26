@@ -20,3 +20,13 @@ public class SumOfOddPosElement {
         System.out.println(count);
     }
 }
+
+/*
+
+Output:
+
+7
+1 25 41 20 12 5 33 10
+50
+
+ */
