@@ -1,7 +1,6 @@
 //Get an input string (single word) from user and replace the characters in string based on the transformation: A->Z, B->Y,C->X and so on.
 
 import java.util.Scanner;
-
 public class ChangeAlphabet {
 
     public static void main(String[] args) {
