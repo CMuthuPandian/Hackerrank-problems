@@ -1,6 +1,6 @@
-import java.util.Scanner;
 //Find the prime digits of the number
 
+import java.util.Scanner;
 public class PrimeDigits {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
@@ -17,7 +17,6 @@ public class PrimeDigits {
             rev=rev/10;
         }
     }
-
     static boolean isPrime(int m){
         int count=0;
         for(int i=2;i<=m;i++){
