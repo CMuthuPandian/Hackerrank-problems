@@ -30,3 +30,12 @@ public class PrimeDigits {
             return false;
     }
 }
+
+/*
+
+Output:
+
+2347
+2 3 7 
+
+ */
