@@ -1,5 +1,4 @@
 //Print string without semicolan number ot times specified by user
-
 import java.util.Scanner;
 
 public class PrintWithoutSemicolan {
