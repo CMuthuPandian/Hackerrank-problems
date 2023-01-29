@@ -7,7 +7,6 @@ public class PrintWithoutSemicolan {
         for(int i=1;i<=n;System.out.println("Hello"))
             i++;
     }
-
 }
 
 /*
