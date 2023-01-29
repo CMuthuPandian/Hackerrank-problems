@@ -12,3 +12,13 @@ public class PrintWithoutSemicolan {
     }
 
 }
+
+/*
+
+Output:
+
+2
+Hello
+Hello
+
+ */
