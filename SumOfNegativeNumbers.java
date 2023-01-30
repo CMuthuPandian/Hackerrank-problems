@@ -10,7 +10,6 @@ Input Format
 5 1 -2 3 -1 5
 
 
-0
 
 Output Format
 
