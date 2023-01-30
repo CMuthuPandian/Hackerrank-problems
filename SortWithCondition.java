@@ -1,8 +1,8 @@
 /*
 
 Get size of an array Get the Elements of array Get a key value Sort the elements based on the condition
-CONDITION : number of times the key value is repeated in that particular element
 
+CONDITION : number of times the key value is repeated in that particular element
 sort the array based on a given condition let us consider a array [9,8,12,1,111] and key value as 1 occurences of 1 in 9 -
  0 occurences of 1 in 8 - 0 occurences of 1 in 12 - 1 occurences of 1 in 1 - 1 occurences of 1 in 111 - 3
 
