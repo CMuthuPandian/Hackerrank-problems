@@ -53,3 +53,13 @@ public class SumOfNegativeNumbers {
             System.out.println(count+" "+sum);
     }
 }
+
+/*
+
+Output:
+
+> -56 5 0 -3 5 61 7 -11 33 49
+
+3 -70
+
+ */
