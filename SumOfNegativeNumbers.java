@@ -23,7 +23,6 @@ Sample Input 1
 5 -1 2 3 4 7
 
 Sample Output 1
-
 1 -1
 
  */
