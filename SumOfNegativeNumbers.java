@@ -9,7 +9,6 @@ Input Format
 
 5 1 -2 3 -1 5
 
-Constraints
 
 0
 
