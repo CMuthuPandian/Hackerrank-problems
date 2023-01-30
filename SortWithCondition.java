@@ -1,5 +1,3 @@
-
-
 /*
 
 Get size of an array Get the Elements of array Get a key value Sort the elements based on the condition
