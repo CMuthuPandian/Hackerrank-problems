@@ -3,7 +3,7 @@
 An array of marks obtained by students are given.
 Marks less than zero are considered fail.
 Determine the number of failures and the total marks obatained by them.
- If there are no failures, print as "No failures"
+If there are no failures, print as "No failures"
 
 Input Format
 
