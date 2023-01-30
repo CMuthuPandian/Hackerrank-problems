@@ -14,11 +14,11 @@ Output Format
 2 -3
 
 Sample Input 0
-
 5 1 -3 4 2 -1
-Sample Output 0
 
+Sample Output 0
 2 -4
+
 Sample Input 1
 
 5 -1 2 3 4 7
