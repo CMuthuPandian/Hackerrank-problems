@@ -1,5 +1,4 @@
-import java.util.ArrayList;
-import java.util.Scanner;
+
 
 /*
 
@@ -16,6 +15,10 @@ sample input : 8 2 2334 567 0 30 9 1 24 3
 sample output: 2,567,0,9,1,24,30,2334
 
  */
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
 public class SortWithCondition {
     public static void main(String[] args){
         Scanner s = new Scanner(System.in);
