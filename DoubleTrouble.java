@@ -10,7 +10,9 @@ rearrange the array such that all 0's shifted to the end.
  
 Expected Output: 
 
-The given array is: 0 3 3 3 0 0 7 7 0 9 The new array is: 6 3 14 9 0 0 0 0 0 0
+The given array is: 0 3 3 3 0 0 7 7 0 9 
+
+The new array is: 6 3 14 9 0 0 0 0 0 0
 
  */
 public class DoubleTrouble {
