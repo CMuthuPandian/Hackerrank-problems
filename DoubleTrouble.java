@@ -4,7 +4,7 @@ import java.util.Scanner;
 /*
 
 Change the array in such a way that if both current and next element is same
- then double the current value and
+then double the current value and
 replace the next element with 0.After this changes,
 rearrange the array such that all 0's shifted to the end.
  
