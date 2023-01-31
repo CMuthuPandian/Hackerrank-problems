@@ -8,7 +8,7 @@ then double the current value and
 replace the next element with 0.After this changes,
 rearrange the array such that all 0's shifted to the end.
  
- Expected Output: The given array is: 0 3 3 3 0 0 7 7 0 9 The new array is: 6 3 14 9 0 0 0 0 0 0
+Expected Output: The given array is: 0 3 3 3 0 0 7 7 0 9 The new array is: 6 3 14 9 0 0 0 0 0 0
 
  */
 public class DoubleTrouble {
