@@ -53,3 +53,22 @@ public class DoubleTrouble {
             System.out.print(List2.get(i)+" ");
     }
 }
+
+/*
+
+Output:
+
+10 //Total number
+0
+5
+7
+22
+0
+3
+3
+6
+6
+7
+>5 7 22 6 12 7 0 0 0 0 //Output
+
+ */
