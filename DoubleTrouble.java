@@ -1,6 +1,3 @@
-import java.util.ArrayList;
-import java.util.Scanner;
-
 /*
 
 Change the array in such a way that if both current and next element is same
@@ -15,6 +12,10 @@ The given array is: 0 3 3 3 0 0 7 7 0 9
 The new array is: 6 3 14 9 0 0 0 0 0 0
 
  */
+
+import java.util.ArrayList;
+import java.util.Scanner;
+
 public class DoubleTrouble {
     public static void main(String[] args){
         Scanner s = new Scanner(System.in);
