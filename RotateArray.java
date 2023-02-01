@@ -14,6 +14,7 @@ public class RotateArray {
         int k = s.nextInt();
         rotateArray(arr,k);
     }
+    
     public static void rotateArray(int[] nums, int k){
         int temp;
         if(nums.length==0)
