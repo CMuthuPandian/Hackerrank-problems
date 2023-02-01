@@ -1,3 +1,5 @@
+//In the given string convert all the character to its opposite case
+
 import java.util.Scanner;
 public class OppositeCaseConversion {
     public static void main(String args[] ) throws Exception {
