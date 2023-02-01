@@ -33,3 +33,20 @@ public class RotateArray {
     }
 
 }
+
+/*
+
+Output:
+
+6  -  Total elements in array
+1
+2
+3
+4
+5
+6
+3  -  No of times to be rotated mentioned by the user
+
+4 5 6 1 2 3   -  Rotated array ( Final answer )
+
+ */
