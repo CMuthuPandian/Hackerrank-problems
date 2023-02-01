@@ -14,3 +14,12 @@ public class OppositeCaseConversion {
                 System.out.print(" ");
         }
 }
+
+/*
+
+Output:
+
+Hi Welcome to JAVA
+hI wELCOME TO java
+
+*/
