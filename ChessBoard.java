@@ -66,6 +66,7 @@ public class ChessBoard {
 Output:
 
 7
+
 Black White Black White Black White Black 
 White Black White Black White Black White 
 Black White Black White Black White Black 
