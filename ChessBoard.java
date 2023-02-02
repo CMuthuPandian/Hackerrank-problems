@@ -17,7 +17,6 @@ Sample Input 0
 Sample Output 0
 OOPS INVALID N VALUE
 
-
 Sample Input 1
 5
 
