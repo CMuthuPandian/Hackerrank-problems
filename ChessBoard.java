@@ -61,3 +61,18 @@ public class ChessBoard {
             System.out.println("OOPS INVALID N VALUE");
     }
 }
+
+/*
+
+Output:
+
+7
+Black White Black White Black White Black 
+White Black White Black White Black White 
+Black White Black White Black White Black 
+White Black White Black White Black White 
+Black White Black White Black White Black 
+White Black White Black White Black White 
+Black White Black White Black White Black 
+
+ */
