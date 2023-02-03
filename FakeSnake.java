@@ -12,7 +12,6 @@ public class FakeSnake {
         for(int i=0;i<n;i++){
             arr[i]=s.nextInt();
         }
-
         for(int i=0;i<n;i++){
             if(i==0)
                 System.out.print(arr[i]+" ");
