@@ -1,6 +1,5 @@
 //Remove all the duplicates element in the arrays and print the original number
 // if 1 existing more than one times in input ...in output it shows only one
-
 import java.util.Scanner;
 
 public class FakeSnake {
