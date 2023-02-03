@@ -44,3 +44,19 @@ public class FakeSnake {
         }
     }
 }
+
+/*
+
+Output:
+
+7  No of element in array
+2
+4
+6
+9
+4
+2
+6
+2 4 6 9 Output
+
+ */
