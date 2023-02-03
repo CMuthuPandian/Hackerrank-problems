@@ -2,6 +2,7 @@
 // if 1 existing more than one times in input ...in output it shows only one
 
 import java.util.Scanner;
+
 public class FakeSnake {
     public static void main(String[] args){
         Scanner s = new Scanner(System.in);
