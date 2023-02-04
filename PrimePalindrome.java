@@ -56,7 +56,6 @@ public class PrimePalindrome {
                 System.out.print("null");
         }
     }
-
     static boolean isPrime(int x){
         int count=0;
         if(x==1)
