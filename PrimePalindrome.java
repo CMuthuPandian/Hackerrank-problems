@@ -90,7 +90,7 @@ public class PrimePalindrome {
 
 Output:
 
-1 20       input
+1 20           input
 2 3 5 7 11     output
 
  */
