@@ -84,7 +84,6 @@ public class PrimePalindrome {
         else
             return false;
     }
-
 }
 
 /*
