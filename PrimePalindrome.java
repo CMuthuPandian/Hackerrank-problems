@@ -72,7 +72,6 @@ public class PrimePalindrome {
                 return false;
         }
     }
-
     static boolean isPalindrome(int y) {
         int p = 0, r = 0;
         int q = y;
