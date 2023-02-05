@@ -57,6 +57,7 @@ public class ReconstructionOfArrayElements {
         for(int i=0;i<n;i++)
             System.out.print(arr[i]+" ");
     }
+    
     static boolean isPerfectSquare(int x){
         if (x > 0) {
             int sr = (int)Math.sqrt(x);
