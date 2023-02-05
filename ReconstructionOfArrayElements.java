@@ -67,3 +67,14 @@ public class ReconstructionOfArrayElements {
     }
 
 }
+
+/*
+
+Output:
+
+7                     No of element
+7 36 -729 5 25 49 78  Elements
+
+7 4 3 3 4 1 3         Output
+
+ */
