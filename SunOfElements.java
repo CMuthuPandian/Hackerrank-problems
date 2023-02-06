@@ -41,6 +41,7 @@ public class SunOfElements {
         int ans = fibo(str.length(),arr);
         System.out.print(ans);
     }
+    
     static int fibo(int count,int[] num) {
         int n1 = 0, n2 = 1, n3, sum = 0;
         sum = sum + num[n1];
