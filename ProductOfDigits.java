@@ -7,7 +7,6 @@ Input Format
 Input should be an Integer
 
 Constraints
-
 1 <= N <= 10000
 
 Output Format
