@@ -26,6 +26,7 @@ Explanation 0
 1 + 2 + 2 + 3 + 4 + 6 = 18
 
  */
+
 import java.util.Scanner;
 public class SunOfElements {
     public static void main(String[] args) {
