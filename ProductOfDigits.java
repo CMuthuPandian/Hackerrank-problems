@@ -9,7 +9,6 @@ Constraints
 1 <= N <= 10000
 
 Output Format
-
 Output should be Integer
 
 Sample Input 0
