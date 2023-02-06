@@ -45,3 +45,12 @@ public class ProductOfDigits {
     }
 
 }
+
+/*
+
+Output:
+
+49   input
+36   output
+
+ */
