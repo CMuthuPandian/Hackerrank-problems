@@ -43,7 +43,6 @@ public class ProductOfDigits {
         }
         System.out.println(b);
     }
-
 }
 
 /*
