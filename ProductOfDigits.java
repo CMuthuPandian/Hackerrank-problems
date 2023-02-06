@@ -31,7 +31,6 @@ Sample Output 1
 import java.util.Scanner;
 
 public class ProductOfDigits {
-
     public static void main(String args[] ) throws Exception {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
