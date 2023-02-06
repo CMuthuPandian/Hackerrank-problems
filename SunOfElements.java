@@ -56,6 +56,7 @@ public class SunOfElements {
         }
         return sum;
     }
+    
 }
 
 /*
