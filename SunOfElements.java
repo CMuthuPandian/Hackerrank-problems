@@ -57,3 +57,12 @@ public class SunOfElements {
     }
 
 }
+
+/*
+
+Output:
+
+17846529  Input
+32        Output
+
+ */
