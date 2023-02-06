@@ -28,6 +28,7 @@ Explanation 0
  */
 
 import java.util.Scanner;
+
 public class SunOfElements {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
