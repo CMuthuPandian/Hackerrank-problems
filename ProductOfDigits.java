@@ -3,7 +3,6 @@
 Products of the digits in a number
 
 Input Format
-
 Input should be an Integer
 
 Constraints
