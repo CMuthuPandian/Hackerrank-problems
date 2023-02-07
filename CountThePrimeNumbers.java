@@ -47,6 +47,7 @@ public class CountThePrimeNumbers {
         }
         System.out.print(sum);
     }
+    
     static boolean isPrime(int prime){
         int count=0;
         if(prime==1)
