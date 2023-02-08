@@ -20,7 +20,8 @@ Word 2: Morning - length: 7
 
 Here, length of the word(Morning) is greater than length of the word(Good).
 
-Note: if you find same length word, you should consider the first word present in the string. Example-> Input: FIND TASK, Output: FIND and 4. Here, FIND and TASK have same length. but FIND is the first word present in the given string.
+Note: if you find same length word, you should consider the first word present in the string.
+Example-> Input: FIND TASK, Output: FIND and 4. Here, FIND and TASK have same length. but FIND is the first word present in the given string.
 
 Input Format
 str -> String.
