@@ -46,3 +46,13 @@ public class SumOfDigitsOddEven {
     }
     
 }
+
+/*
+
+779    //input
+add    //output
+
+66     //input
+even   //output
+
+ */
