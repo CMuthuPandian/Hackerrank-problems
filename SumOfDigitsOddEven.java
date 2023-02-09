@@ -25,7 +25,6 @@ Sample Output 1
 odd
 
  */
-
 import java.util.Scanner;
 
 public class SumOfDigitsOddEven {
