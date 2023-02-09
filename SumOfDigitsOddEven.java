@@ -26,7 +26,6 @@ odd
 
  */
 import java.util.Scanner;
-
 public class SumOfDigitsOddEven {
 
     public static void main(String[] args) {
