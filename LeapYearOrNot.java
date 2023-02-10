@@ -25,7 +25,6 @@ Sample Output 1
 Not a leap year
 
  */
-
 import java.util.Scanner;
 
 public class LeapYearOrNot {
