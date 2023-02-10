@@ -27,6 +27,7 @@ Not a leap year
  */
 
 import java.util.Scanner;
+
 public class LeapYearOrNot {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
