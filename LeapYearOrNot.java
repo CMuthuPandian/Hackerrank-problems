@@ -40,3 +40,13 @@ public class LeapYearOrNot {
     }
 
 }
+
+/*
+
+2004
+Leap year 
+
+1999
+Not a leap year
+
+ */
