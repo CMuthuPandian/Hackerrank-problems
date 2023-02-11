@@ -44,7 +44,6 @@ public class ReplaceVowels {
 
         System.out.println(string);
     }
-
 }
 
 /*
