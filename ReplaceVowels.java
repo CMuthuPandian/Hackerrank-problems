@@ -41,7 +41,6 @@ public class ReplaceVowels {
                 string.setCharAt(i, '*');
             }
         }
-
         System.out.println(string);
     }
 }
