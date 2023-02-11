@@ -19,7 +19,6 @@ H*ll* w*rld
 
  */
 import java.util.Scanner;
-
 public class ReplaceVowels {
 
     public static void main(String[] args) {
