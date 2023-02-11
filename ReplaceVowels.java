@@ -50,3 +50,11 @@ public class ReplaceVowels {
 
 }
 
+/*
+
+Output:
+
+Hi Hello Everyone
+H* H*ll* Ev*ry*n*
+
+ */
