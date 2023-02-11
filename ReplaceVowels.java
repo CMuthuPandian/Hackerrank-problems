@@ -18,7 +18,6 @@ Sample Output 0
 H*ll* w*rld
 
  */
-
 import java.util.Scanner;
 
 public class ReplaceVowels {
