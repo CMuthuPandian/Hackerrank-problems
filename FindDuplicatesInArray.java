@@ -28,7 +28,6 @@ Sample Output 1
 
  */
 import java.util.Scanner;
-
 public class FindDuplicatesInArray {
 
     public static void main(String[] args) {
