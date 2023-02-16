@@ -48,3 +48,12 @@ public class FindDuplicatesInArray {
     }
 
 }
+
+/*
+
+7        //input
+1 3 4 4 7 1 3   // array elements
+1 3 4       //duplicate elements(output)
+
+
+ */
