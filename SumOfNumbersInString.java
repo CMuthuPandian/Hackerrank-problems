@@ -24,7 +24,6 @@ Sample Output 1
 36
 
  */
-
 import java.util.Scanner;
 public class SumOfNumbersInString {
     public static void main(String[] args) {
