@@ -34,7 +34,11 @@ public class SumOfNumbersInString {
         String str = s.nextLine();
         int sum=0;
         for(int i=0;i<str.length();i++){
-            if(Character.getNumericValue(str.charAt(i))==1||Character.getNumericValue(str.charAt(i))==2||Character.getNumericValue(str.charAt(i))==3||Character.getNumericValue(str.charAt(i))==4||Character.getNumericValue(str.charAt(i))==5||Character.getNumericValue(str.charAt(i))==6||Character.getNumericValue(str.charAt(i))==7||Character.getNumericValue(str.charAt(i))==8||Character.getNumericValue(str.charAt(i))==9){
+            if(Character.getNumericValue(str.charAt(i))==1||Character.getNumericValue(str.charAt(i))==2||
+               Character.getNumericValue(str.charAt(i))==3||Character.getNumericValue(str.charAt(i))==4||
+               Character.getNumericValue(str.charAt(i))==5||Character.getNumericValue(str.charAt(i))==6||
+               Character.getNumericValue(str.charAt(i))==7||Character.getNumericValue(str.charAt(i))==8||Character.getNumericValue(str.charAt(i))==9)
+            {
                 sum=sum+(Character.getNumericValue(str.charAt(i)));
             }
         }
