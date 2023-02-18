@@ -28,6 +28,7 @@ Sample Output 1
 import java.util.Scanner;
 
 public class CountEvenDigits {
+    
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
