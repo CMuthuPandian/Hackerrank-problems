@@ -44,3 +44,10 @@ public class CountEvenDigits {
     }
 
 }
+
+/*
+
+542861   //input   
+4        //output
+
+ */
