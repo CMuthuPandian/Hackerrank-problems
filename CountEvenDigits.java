@@ -38,7 +38,6 @@ public class CountEvenDigits {
         }
         System.out.println(b);
     }
-
 }
 
 /*
