@@ -53,6 +53,7 @@ public class OddDigitInEvenPosition {
         else
             System.out.print("0");
     }
+    
 }
 
 /*
