@@ -55,3 +55,10 @@ public class OddDigitInEvenPosition {
     }
 
 }
+
+/*
+
+1735 Input
+75   Output
+
+ */
