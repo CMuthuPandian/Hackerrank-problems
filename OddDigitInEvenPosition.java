@@ -31,7 +31,6 @@ The input consists only one digit. So, the ouput is 0.
 
  */
 import java.util.Scanner;
-
 public class OddDigitInEvenPosition {
 
     public static void main(String[] args) {
