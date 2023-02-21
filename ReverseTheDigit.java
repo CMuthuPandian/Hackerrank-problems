@@ -24,7 +24,6 @@ Sample Output 1
 6842
 
  */
-
 import java.util.Scanner;
 
 public class ReverseTheDigit {
