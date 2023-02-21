@@ -42,3 +42,10 @@ public class ReverseTheDigit {
     }
 
 }
+
+/*
+
+51632  Input
+26     Output
+
+ */
