@@ -28,6 +28,7 @@ Sample Output 1
 import java.util.Scanner;
 
 public class ReverseTheDigit {
+    
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
         int n = in.nextInt();
@@ -39,6 +40,7 @@ public class ReverseTheDigit {
             n=n/10;
         }
     }
+    
 }
 
 /*
