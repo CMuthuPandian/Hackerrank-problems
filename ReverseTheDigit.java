@@ -37,7 +37,6 @@ public class ReverseTheDigit {
             n=n/10;
         }
     }
-
 }
 
 /*
