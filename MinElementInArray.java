@@ -48,3 +48,11 @@ public class MinElementInArray {
     }
 
 }
+
+/*
+
+7              Total no of elements
+1 5 6 9 2 7 3  Elements
+1              Output
+
+ */
