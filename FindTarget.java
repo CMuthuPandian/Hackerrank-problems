@@ -1,7 +1,6 @@
 /*
 
-Find the target by adding two elements in the array. If all the combinations fail, print -1.
-Target value won't be given directly in the array.
+Find the target by adding two elements in the array. If all the combinations fail, print -1. Target value won't be given directly in the array.
 
 Input Format
 N and target value should be Integer. Array elements should be Integer
