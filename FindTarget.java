@@ -83,3 +83,15 @@ public class FindTarget {
     }
 
 }
+
+/*
+
+Input
+8
+4 6 8 55 41 3 9 555
+559
+
+Output
+4,555
+
+ */
