@@ -42,6 +42,7 @@ public class RemovingVowelLetters {
     }
 
 }
+
 /*
 
 Hi how are you ?      Input
