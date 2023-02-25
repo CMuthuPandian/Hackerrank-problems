@@ -61,3 +61,10 @@ public class ArrangeVowels {
     }
 
 }
+
+/*
+
+Hi how are you ? everything will be alright  //Input
+aaeeeeiiiioou                                //Output
+
+ */
