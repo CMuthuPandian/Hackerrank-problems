@@ -25,7 +25,6 @@ Sample Output 1
 aaaeio
 
  */
-
 import java.util.Scanner;
 
 public class ArrangeVowels {
