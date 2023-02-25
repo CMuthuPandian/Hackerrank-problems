@@ -26,7 +26,6 @@ aaaeio
 
  */
 import java.util.Scanner;
-
 public class ArrangeVowels {
 
     public static void main(String[] args) {
