@@ -31,7 +31,6 @@ import java.util.Scanner;
 public class ArrangeVowels {
     
     public static void main(String[] args) {
-        
         Scanner in = new Scanner(System.in);
         String str = in.nextLine();
         for(int i=0;i<str.length();i++){
