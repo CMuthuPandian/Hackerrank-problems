@@ -60,6 +60,7 @@ public class ArrangeVowels {
                 System.out.print(n);
         }
     }
+    
 }
 
 /*
