@@ -4,6 +4,7 @@ Print the sum by adding all the characters by using their ASCII value.
 
 Input Format
 Input should be String
+
 Constraints
 No constraints
 
