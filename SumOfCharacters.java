@@ -42,3 +42,10 @@ public class SumOfCharacters {
     }
 
 }
+
+/*
+
+muthu   Input
+563     Output
+
+ */
